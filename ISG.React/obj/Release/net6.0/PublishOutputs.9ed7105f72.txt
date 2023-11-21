@@ -1,0 +1,13 @@
+C:\Users\Acer\Desktop\ISG-React\ISG.React\ISG.React\obj\Release\net6.0\PubTmp\Out\ISG.React.exe
+C:\Users\Acer\Desktop\ISG-React\ISG.React\ISG.React\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Acer\Desktop\ISG-React\ISG.React\ISG.React\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\Acer\Desktop\ISG-React\ISG.React\ISG.React\obj\Release\net6.0\PubTmp\Out\clientapp\package-lock.json
+C:\Users\Acer\Desktop\ISG-React\ISG.React\ISG.React\obj\Release\net6.0\PubTmp\Out\clientapp\package.json
+C:\Users\Acer\Desktop\ISG-React\ISG.React\ISG.React\obj\Release\net6.0\PubTmp\Out\ISG.React.dll
+C:\Users\Acer\Desktop\ISG-React\ISG.React\ISG.React\obj\Release\net6.0\PubTmp\Out\ISG.React.deps.json
+C:\Users\Acer\Desktop\ISG-React\ISG.React\ISG.React\obj\Release\net6.0\PubTmp\Out\ISG.React.runtimeconfig.json
+C:\Users\Acer\Desktop\ISG-React\ISG.React\ISG.React\obj\Release\net6.0\PubTmp\Out\ISG.React.pdb
+C:\Users\Acer\Desktop\ISG-React\ISG.React\ISG.React\obj\Release\net6.0\PubTmp\Out\Microsoft.AspNetCore.SpaServices.Extensions.dll
+C:\Users\Acer\Desktop\ISG-React\ISG.React\ISG.React\obj\Release\net6.0\PubTmp\Out\clientapp\dist\assets\index-dZNWj06m.js
+C:\Users\Acer\Desktop\ISG-React\ISG.React\ISG.React\obj\Release\net6.0\PubTmp\Out\clientapp\dist\index.html
+C:\Users\Acer\Desktop\ISG-React\ISG.React\ISG.React\obj\Release\net6.0\PubTmp\Out\clientapp\dist\vite.svg
